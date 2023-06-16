@@ -1,9 +1,9 @@
 # Praktikum 10: Pagination dan Pencarian
 
 ```bash
-Nama    : Savariana Rika Anugrahaini
-Kelas   : TI.21.A.3
-Nim     : 312110052
+Nama    : Fahrezi Tresno Nurwanto
+Kelas   : TI.21.c.2
+Nim     : 312110578
 ```
 
 ## Output
